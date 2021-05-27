@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+/*Tendremos un sistema que debe clasificar el resultado de una evaluación. Como dato de entrada
+ tendremos un entero y como resultado un String de la clasificación de la siguiente forma:*/
 
         System.out.println("Ingresa la nota del alumno: ");
         Scanner scan = new Scanner(System.in);
