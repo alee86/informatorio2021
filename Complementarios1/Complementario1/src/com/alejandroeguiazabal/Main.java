@@ -1,5 +1,6 @@
 package com.alejandroeguiazabal;
 
+import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Main {
@@ -12,21 +13,22 @@ siguiente mensaje “HOLA {USUARIO}!!!”*/
         String nombre = scan.nextLine();
 
         String imprimir = greeting(nombre);
+        String caja = box(imprimir.length());
 
-        for (int i = 0; i < imprimir.length(); i++) {
-            System.out.print("*");
-        }
+        System.out.print(caja);
         System.out.println("");
         System.out.println(imprimir);
-
-        for (int i = 0; i < imprimir.length(); i++) {
-            System.out.print("*");
-        }
-
+        caja = box(imprimir.length());
+        System.out.print(caja);
     }
 
     public static String greeting(String name) {
         return "* Hola " + name +"!!! *";
     }
 
+    public static String box(int numero){
+        for (int i = 0; i < numero; i++){
+            System.out.print("*");
+        } return "";
+    }
 }
