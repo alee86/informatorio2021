@@ -12,13 +12,11 @@ siguiente mensaje “HOLA {USUARIO}!!!”*/
         String nombre = scan.nextLine();
 
         String imprimir = greeting(nombre);
-        String caja = box(imprimir.length());
 
-        System.out.print(caja);
+        System.out.print(box(imprimir.length()));
         System.out.println("");
         System.out.println(imprimir);
-        caja = box(imprimir.length());
-        System.out.print(caja);
+        System.out.print(box(imprimir.length()));
     }
 
     public static String greeting(String name) {
