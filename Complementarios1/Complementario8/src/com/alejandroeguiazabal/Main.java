@@ -24,6 +24,6 @@ Luego imprimirá el siguiente mensaje:
         String nombreCompleto = scan.nextLine();
 
         System.out.println(ciudad +" - "+ direccion +" - "+ edad +" - "+ nombreCompleto);
-
+        //hacer el mismo codigo usando bibliotas
     }
 }
