@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5208c087-bfe4-4378-b39f-9bf9e2f5bb32" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Complementario8/src/com/alejandroeguiazabal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Complementario8/src/com/alejandroeguiazabal/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alejandroeguiazabal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/alejandroeguiazabal/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Complementarios2/Complementario1/src/com/alejandroeguiazabal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Complementarios2/Complementario1/src/com/alejandroeguiazabal/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +75,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="928" height="281" key="GridCell.Tab.0.bottom" timestamp="1622463795182">
@@ -94,5 +94,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="928" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1622463795182" />
+    <state x="0" y="144" key="new project wizard" timestamp="1622464035359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="144" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1622464035359" />
   </component>
 </project>
