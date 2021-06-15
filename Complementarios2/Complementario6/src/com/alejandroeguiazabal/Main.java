@@ -15,8 +15,10 @@ Todos los empleados están cargados en un Set (HashSet), se desea calcular el su
 donde la clave (key) es el dni y el valor (value) es el sueldo calculado. */
 
     public static void main(String[] args) {
-        HashMap<Integer, Integer> Diccionario; //Definiendo el tipo de dato que va a contener la variable diccionario (def de la variable)
-        Diccionario = new HashMap<>(); //investigar los tipos de datos
+        //Definiendo el tipo de dato que va a contener la variable diccionario (def de la variable)
+        HashMap<Integer, Integer> Diccionario;
+        //investigar los tipos de datos
+        Diccionario = new HashMap<>();
 
         Set<Empleado> lista ; //definimos lista como una  collection Set que contiene empleados
         lista = new HashSet<>(); // al ser set una interfase, la instanciamos como HasSet
